@@ -2,4 +2,4 @@
 
 Frontend - HTML, CSS, JS and Custom Fonts.
 
-[View Page]()
+[View Page](https://pekarskyi.github.io/airpods-max.github.io/)
